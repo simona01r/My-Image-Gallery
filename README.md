@@ -1,7 +1,7 @@
  <h1>My Image Gallery
-========
 
- <h2>Simple responsive image gallery, with <strong>jquery</strong>
+
+ <h3>Simple responsive image gallery, with <strong>jquery</strong>
 <br>
 
 <h3>In this project, the images of the Resideces I visited in Dubai:<br>
@@ -13,6 +13,6 @@
 
 </ul>
 
-<h1>Short Description </h2>
-<h2>This project builds a portfolio image gallery with pictures from some Dubai Residences.
+<h2>Short Description </h2>
+<h3>This project builds a portfolio image gallery with pictures from some Dubai Residences.
 <br><br>
