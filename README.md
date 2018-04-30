@@ -4,7 +4,7 @@
  <h3>Simple responsive image gallery, with <strong>jquery</strong>
 <br>
 
-<h3>In this project, the images of the Resideces I visited in Dubai:<br>
+<h4>In this project, the images of the Resideces I visited in Dubai:<br>
 <ul>
 	<li>can be categorized and linked to menu items</li>
 	<li>have an overlay effect  to change the background and show residence's info</li>
